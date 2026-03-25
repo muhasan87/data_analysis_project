@@ -1,4 +1,4 @@
-# Data Analytics Projects Portfolio
+# Data Visualisation Project Portfolio
 
 ## Overview
 This repository contains data analytics projects completed using Tableau and Excel. The projects focus on analysing real-world datasets, identifying trends, and communicating insights through data visualisation and analytical reporting.
